@@ -3,6 +3,9 @@
 In order for this application to work properly, please follow the following steps:
 
 -------
+if you are using XAMPP copy and past these files in htdocs folder which you can find it in the path you installed XAMPP
+-------
+
 When you try to add any data, any row missing a single data will be eliminated 
 
 In order to add data, you need to upload a csv file. The file should have 4 rows with exact titles. Similar to the following:
