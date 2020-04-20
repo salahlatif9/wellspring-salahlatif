@@ -1,4 +1,4 @@
-# wellspring-salahlatif
+# PHP-CRUD
 
 In order for this application to work properly, please follow the following steps:
 
